@@ -1,0 +1,26 @@
+.root {
+  padding: 1.3em 2em 1em;
+  border-bottom: 1px solid #222;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+}
+
+.link {
+  text-decoration: none;
+  color: #888;
+}
+
+.activeLink {
+  color: #EAE2CF;
+}
+
+.label {
+  line-height: 1.618em;
+  font-weight: bold;
+}
+
+.meta {
+  display: block;
+  color: #444;
+}

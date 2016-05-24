@@ -1,0 +1,10 @@
+.root {
+  height: 100%;
+  font-family: 'Old Standard TT', serif;
+  max-width: 560px;
+}
+
+.heading {
+  font-size: 64px;
+  font-weight: bold;
+}

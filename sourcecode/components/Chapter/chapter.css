@@ -1,0 +1,27 @@
+.root {
+  width: 560px;
+  min-width: 480px;
+  order: 2;
+  flex: 0 1 auto;
+  align-self: center;
+  min-width: 0px;
+  min-height: auto;
+  font-size: 1.2em;
+  line-height: 1.618em;
+}
+
+.close {
+  text-decoration: none;
+  color: rgba(0,0,0,0.2);
+  font-size: 32px;
+  position: fixed;
+  right: 32px;
+  top: 16px;
+}
+
+.heading {
+  padding-top: 60px;
+  font-family: "Old Standard TT";
+  font-size: 48px;
+  line-height: 64px;
+}
