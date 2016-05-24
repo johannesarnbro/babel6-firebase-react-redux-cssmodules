@@ -7,7 +7,7 @@ npm install && npm run dev
 - [X] React
 - [X] Redux
 - [X] CSS Modules
-- [X] WPCOM
+- [X] Firebase
 - [X] Babel6
 - [X] Eslint
 
